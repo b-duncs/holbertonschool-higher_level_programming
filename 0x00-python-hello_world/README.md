@@ -42,7 +42,7 @@ What you should learn from this project:
 * What’s a traceback
 * What are the arithmetic operators and how to use them
 
-## Tasts:notebook:  
+## Tasks:notebook:  
 
 * `0-print.py`: write a Python script that prints exactly "Programming is like building a multilingual puzzle, followed by a new line  
 * `1-edges.py`: complete this [1-edges.py](https://holbertonintranet.s3.amazonaws.com/uploads/text/2021/3/fd5bb0d5f7712e088ad80eec4fe394d036ee7029.py?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T211623Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=0868ef736cfd8552a04c63854b5105ccc77e726b8d3bf19ca26dfddafbe71037)  
