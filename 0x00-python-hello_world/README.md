@@ -12,8 +12,7 @@ Read or watch:
 * [Learn to Program](https://intranet.hbtn.io/rltoken/WdAST6KfRS9aLOqBcVj2CA)  
 * [Learn to Program 2: Looping](https://intranet.hbtn.io/rltoken/WdAST6KfRS9aLOqBcVj2CA)  
 * [PEP 8 – Style Guide for Python Code](https://intranet.hbtn.io/rltoken/PdFV1mhaGIFd6W-mIbIt0g)  
-
----  
+  
 ## Learning Objectives:bulb:
 What you should learn from this project:
 
