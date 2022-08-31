@@ -32,6 +32,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.4-print_hexa">
     <configuration name="2-positive_or_negative" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
