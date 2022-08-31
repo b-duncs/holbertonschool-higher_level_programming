@@ -32,10 +32,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0x01-python-import_modules" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x01-python-import_modules" />
       <recent name="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
     </key>
   </component>
