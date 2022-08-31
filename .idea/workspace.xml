@@ -42,8 +42,11 @@
       <recent name="$PROJECT_DIR$/0x01-python-import_modules" />
       <recent name="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0x01-python-import_modules/test files" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.2-variable_load">
+  <component name="RunManager" selected="Python.3-safe_print_division">
     <configuration name="12-fizzbuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="holbertonschool-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-pow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3-safe_print_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="holbertonschool-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x00-python-hello_world" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0x01-python-import_modules" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x00-python-hello_world/8-pow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x01-python-import_modules/3-safe_print_division.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +143,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x01-python-import_modules/add_0.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0x01-python-import_modules/test files/add_0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3-safe_print_division" />
         <item itemvalue="Python.2-variable_load" />
         <item itemvalue="Python.add_0" />
         <item itemvalue="Python.12-fizzbuzz" />
         <item itemvalue="Python.9-print_last_digit" />
-        <item itemvalue="Python.8-pow" />
       </list>
     </recent_temporary>
   </component>
