@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 for alpha in range(97, 123):
-    if chr(alpha) is not 'q' and chr(alpha) is not 'e':
+    if chr(alpha) != 'q' and 'e' != chr(alpha):
         print("{}".format(chr(alpha)), end="")
