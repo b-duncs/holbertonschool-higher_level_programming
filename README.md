@@ -13,3 +13,7 @@
 **man or help**  
   
 - `python3`: an interpreted, interactive, object-oriented programming language  
+  
+## 0x02. Python - Data Structures: Lists, Tuples  
+  
+**man or help**  
