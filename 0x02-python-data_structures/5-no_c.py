@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 def no_c(my_string):
-    remove = {'C': None, 'c': None}
-    print(my_string.translate(remove))
+    remove = {67: None, 99: None}
+    new_string = my_string.translate(remove)
+    return new_string
