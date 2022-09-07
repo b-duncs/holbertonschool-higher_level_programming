@@ -1,4 +1,4 @@
-# 0x00. Python - Data Structures: Lists, Tuples
+# 0x03. Python - Data Structures: Lists, Tuples
 
 ## Resources:books:
 Read or watch:
