@@ -17,3 +17,9 @@
 ## 0x02. Python - Data Structures: Lists, Tuples  
   
 **man or help**  
+  
+## 0x03. Python - More Data Structures: Set, Dictionary  
+  
+**man or help**
+  
+- `python3`: an interpreted, interactive, object-oriented programming language
