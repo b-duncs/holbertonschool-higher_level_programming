@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-python-more_data_structures/12-roman_to_int.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-python-more_data_structures/12-roman_to_int.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x03-python-more_data_structures/test_files/12-main.py" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-python-more_data_structures/12-main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x04-python-classes",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x04-python-classes&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="holbertonschool-higher_level_programming" is-module-sdk="true">
@@ -61,9 +65,9 @@
       <recent name="$PROJECT_DIR$/0x01-python-if_else_loops_functions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/0x04-python-classes/test_files" />
       <recent name="$PROJECT_DIR$/0x03-python-more_data_structures/test_files" />
       <recent name="$PROJECT_DIR$/0x03-python-more_data_structures" />
+      <recent name="$PROJECT_DIR$/0x04-python-classes/test_files" />
       <recent name="$PROJECT_DIR$/0x01-python-import_modules/test files" />
     </key>
   </component>
@@ -208,7 +212,7 @@
       <workItem from="1662508587441" duration="1311000" />
       <workItem from="1662509944784" duration="10316000" />
       <workItem from="1662607348988" duration="4762000" />
-      <workItem from="1662612694840" duration="231000" />
+      <workItem from="1662612694840" duration="2919000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1662513634331</created>
@@ -385,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662612735055</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="updated files">
+      <created>1662612990813</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1662612990813</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
