@@ -24,6 +24,6 @@ class Square:
     def area(self):
         """
         Public Instance Method:
-        def area(self): that returns the current square area
+        def area(self): returns the current square area
         """
         return self.__size * self.__size
