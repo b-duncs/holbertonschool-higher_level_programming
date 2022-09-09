@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x01-python-import_modules/test_files" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/0x03-python-more_data_structures/test_files" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/0x04-python-classes/test_files" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/0x07-python-test_driven_development/test" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (holbertonschool-higher_level_programming)" jdkType="Python SDK" />
