@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -211,7 +212,7 @@
       <workItem from="1662508587441" duration="1311000" />
       <workItem from="1662509944784" duration="10316000" />
       <workItem from="1662607348988" duration="4762000" />
-      <workItem from="1662612694840" duration="4717000" />
+      <workItem from="1662612694840" duration="5625000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1662513634331</created>
@@ -423,7 +424,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662664637178</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="updated files">
+      <created>1662701828066</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1662701828066</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated files">
+      <created>1662701848211</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662701848211</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
