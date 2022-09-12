@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
+      <change afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/0-add_integer.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +71,7 @@
       <recent name="$PROJECT_DIR$/0x01-python-import_modules/test files" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in 0-add_integer_test.py">
+  <component name="RunManager" selected="Python tests.Python tests in /Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x07-python-test_driven_development/0-add_integer_test.py">
     <configuration name="0-square_matrix_simple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="holbertonschool-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in 0-add_integer_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in /Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x07-python-test_driven_development/0-add_integer_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="holbertonschool-higher_level_programming" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +177,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in 0-add_integer_test.py" />
+        <item itemvalue="Python tests.Python tests in /Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x07-python-test_driven_development/0-add_integer_test.py" />
         <item itemvalue="Python.0-square_matrix_simple" />
         <item itemvalue="Python.7-add_tuple" />
         <item itemvalue="Python.5-no_c" />
@@ -205,7 +208,7 @@
       <workItem from="1662612694840" duration="5625000" />
       <workItem from="1663005155541" duration="1333000" />
       <workItem from="1663016588008" duration="359000" />
-      <workItem from="1663016953005" duration="2401000" />
+      <workItem from="1663016953005" duration="3226000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1662513634331</created>
@@ -438,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663018637965</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="updated files">
+      <created>1663020084196</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663020084196</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
