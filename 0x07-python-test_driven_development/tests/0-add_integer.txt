@@ -28,6 +28,11 @@ Now use it:
     ...
     TypeError: b must be an integer
 
+    >>> add_integer(4, int('School'))
+    Traceback (most recent call last):
+    ...
+    ValueError: invalid literal for int() with base 10: 'School'
+
     >>> add_integer()
     Traceback (most recent call last):
     ...
@@ -37,3 +42,13 @@ Now use it:
     Traceback (most recent call last):
     ...
     TypeError: a must be an integer
+
+    >>> add_integer(4, float('nan'))
+    Traceback (most recent call last):
+    ...
+    ValueError: cannot convert float NaN to integer
+
+    >>> add_integer(4, float('inf'))
+    Traceback (most recent call last):
+    ...
+    OverflowError: cannot convert float infinity to integer
