@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x07-python-test_driven_development/tests/0-add_integer.txt" beforeDir="false" afterPath="$PROJECT_DIR$/0x07-python-test_driven_development/0-add_integer.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,8 +65,8 @@
       <recent name="$PROJECT_DIR$/0x01-python-import_modules" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/0x07-python-test_driven_development/tests" />
       <recent name="$PROJECT_DIR$/0x07-python-test_driven_development" />
+      <recent name="$PROJECT_DIR$/0x07-python-test_driven_development/tests" />
       <recent name="$PROJECT_DIR$/0x03-python-more_data_structures/test_files" />
       <recent name="$PROJECT_DIR$/0x03-python-more_data_structures" />
       <recent name="$PROJECT_DIR$/0x04-python-classes/test_files" />
@@ -206,7 +209,7 @@
       <workItem from="1662612694840" duration="5625000" />
       <workItem from="1663005155541" duration="1333000" />
       <workItem from="1663016588008" duration="359000" />
-      <workItem from="1663016953005" duration="4078000" />
+      <workItem from="1663016953005" duration="5297000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1662513634331</created>
@@ -453,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663022074378</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="updated files">
+      <created>1663022775141</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663022775141</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
