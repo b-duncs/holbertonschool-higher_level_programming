@@ -19,7 +19,7 @@ Now use it:
     <BLANKLINE>
     School:
     <BLANKLINE>
-    Tulsa
+    Tulsa 
 
     >>> text_indentation("Holberton.School")
     Holberton.
@@ -31,15 +31,9 @@ Now use it:
     ...
     TypeError: text must be a string
 
-    >>> text_indentation("      ")
-    <BLANKLINE>
-
     >>> text_indentation("")
 
     >>> text_indentation("\n")
-    <BLANKLINE>
-
-    >>> text_indentation(" ")
     <BLANKLINE>
 
     >>> text_indentation()
