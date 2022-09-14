@@ -28,7 +28,10 @@
   
 **man or help**  
 
-## 0x05. Python - Test-Driven Development  
+## 0x06. Python - More Classes and Objects  
   
 **man or help**  
-
+  
+## 0x05. Python - Test-driven Development  
+  
+**man or help**  
