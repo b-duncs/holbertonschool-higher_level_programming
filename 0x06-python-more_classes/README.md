@@ -55,9 +55,9 @@ What you should learn from this project:
 ## Tasks:notebook:  
 
 * `0-rectangle.py`: write a class Rectangle that defines a rectangle  
-* `1-rectangle.py`: write a class Rectangle that defines a rectangle by: (based on 0-rectangle.py)  
-* `2-rectangle.py`: write a class Rectangle that defines a rectangle by: (based on 1-rectangle.py)
-* `3-rectangle.py`: write a class Rectangle that defines a rectangle by: (based on 2-rectangle.py)
+* `1-rectangle.py`: write a class Rectangle that defines a rectangle (based on 0-rectangle.py)  
+* `2-rectangle.py`: write a class Rectangle that defines a rectangle (based on 1-rectangle.py)
+* `3-rectangle.py`: write a class Rectangle that defines a rectangle (based on 2-rectangle.py)
 
 ## Author
 * **Baylee Duncan** - [b-duncs](https://github.com/b-duncs)
