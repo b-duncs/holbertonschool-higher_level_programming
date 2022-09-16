@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py). (task based on 8-rectangle.py)
+Write a class Rectangle that inherits from BaseGeometry (7-base_geometry.py)
     -Instantiation with width and height:
         def __init__(self, width, height)::
         -width and height must be private
