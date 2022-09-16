@@ -32,6 +32,14 @@
   
 **man or help**  
   
-## 0x05. Python - Test-driven Development  
+## 0x07. Python - Test-driven Development  
+  
+**man or help**  
+  
+## 0x09. Python - Everything is Object
+  
+**man or help**  
+  
+## 0x0A. Python - Inheritance  
   
 **man or help**  
