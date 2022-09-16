@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/tests/1-my_list.txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0A-python-inheritance/2-is_same_class.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -210,14 +210,7 @@
       <workItem from="1663016588008" duration="359000" />
       <workItem from="1663016953005" duration="15406000" />
       <workItem from="1663092641519" duration="5374000" />
-      <workItem from="1663200857730" duration="6349000" />
-    </task>
-    <task id="LOCAL-00019" summary="updated files">
-      <created>1662609810979</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1662609810979</updated>
+      <workItem from="1663200857730" duration="6655000" />
     </task>
     <task id="LOCAL-00020" summary="updated files">
       <created>1662610574141</created>
@@ -555,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663296481466</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="updated files">
+      <created>1663296801427</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1663296801427</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
