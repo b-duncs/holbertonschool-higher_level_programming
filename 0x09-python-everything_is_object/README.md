@@ -32,14 +32,14 @@ What you should learn from this project:
 * `0-answer.txt`: what function would you use to print the type of an object? 
 * `1-answer.txt`: how do you get a variable's identifier (which is the memory address in the CPython implementation)? 
 * `2-answer.txt`: in the following code, do a and b point to the same object?
-    > a = 89
-    > b = 100
+    > a = 89  
+    > b = 100  
 * `3-answer.txt`: in the following code, do a and b point to the same object?
-    > a = 89
-    > b = 89
+    > a = 89  
+    > b = 89  
 * `4-answer.txt`: in the following code, do a and b point to the same object?
-    > a = 89
-    > b = a
+    > a = 89  
+    > b = a  
 * `5-answer.txt`: in the following code, do a and b point to the same object?
     > a = 89
     > b = a + 1
