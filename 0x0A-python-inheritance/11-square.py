@@ -10,13 +10,11 @@ Write a class Square that inherits from Rectangle (9-rectangle.py)
         the square description: [Square] <width>/<height>
 """
 
-
 Rectangle = __import__('9-rectangle').Rectangle
 
 
 class Square(Rectangle):
     """Class BaseGeometry"""
-
 
     def __init__(self, size):
         """Public Instance"""
