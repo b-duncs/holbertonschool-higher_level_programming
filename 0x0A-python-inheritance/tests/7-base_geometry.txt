@@ -1,0 +1,51 @@
+7-base_geometry.py doctest
+======================
+
+using ``BaseGeometry``
+-------------------
+
+This is a doctest text file in reStructuredText format.  First import
+``BaseGeometry`` from the ``7-base_geometry`` module:
+
+    >>> BaseGeometry = __import__('7-base_geometry').BaseGeometry
+
+Now use it:
+
+	>>> len(docs) > 1
+        True
+
+	>>> len(docs) > 1
+        True
+    >>> bg = BaseGeometry()
+
+    >>> bg.integer_validator("width", 89.5)
+    Traceback (most recent call last):
+    TypeError: width must be an integer
+
+    >>> bg.integer_validator("age", 0)
+    Traceback (most recent call last):
+    ValueError: age must be greater than 0
+
+    >>> bg.integer_validator("age", -5)
+    Traceback (most recent call last):
+    ValueError: age must be greater than 0
+
+    >>> bg.integer_validator("age", "age")
+    Traceback (most recent call last):
+    TypeError: age must be an integer
+
+    >>> bg.area()
+    Traceback (most recent call last):
+    Exception: area() is not implemented
+
+    >>> bg.area(123)
+    Traceback (most recent call last):
+    TypeError: area() takes 1 positional argument but 2 were given
+
+    >>> bg.integer_validator("age")
+    Traceback (most recent call last):
+    TypeError: integer_validator() missing 1 required positional argument: 'value'
+
+    >>> bg.integer_validator()
+    Traceback (most recent call last):
+    TypeError: integer_validator() missing 2 required positional arguments: 'name' and 'value'
