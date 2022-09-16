@@ -9,7 +9,7 @@ Write a function that returns True
 
 def inherits_from(obj, a_class):
     """Returns True if Object is an Instance of an Inherited Specified Class"""
-    if isinstance(type(obj), a_class) and type(obj) != a_class:
+    if issubclass(type(obj), a_class) and type(obj) != a_class:
         return True
     else:
         return False
