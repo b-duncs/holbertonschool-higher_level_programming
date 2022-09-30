@@ -1,5 +1,9 @@
 # holbertonschool-higher_level_programming   
   
+## 0x0A. Python - Inheritance   
+  
+**man or help**  
+
 ## 0x00. Python - Hello, World   
   
 **man or help**  
@@ -32,14 +36,6 @@
   
 **man or help**  
   
-## 0x07. Python - Test-driven Development  
-  
-**man or help**  
-  
-## 0x09. Python - Everything is Object
-  
-**man or help**  
-  
-## 0x0A. Python - Inheritance  
+## 0x07. Python - Test-driven Development
   
 **man or help**  
