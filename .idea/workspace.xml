@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
+      <change afterPath="$PROJECT_DIR$/0x01-SQL_more_queries/0-privileges.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-SQL_more_queries/1-create_user.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-SQL_more_queries/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0x00-SQL_introduction/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-SQL_introduction/.idea/dataSources.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x0B-python-input_output&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming/0x0B-python-input_output",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ssh.settings"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="holbertonschool-higher_level_programming" is-module-sdk="true">
@@ -195,6 +202,9 @@
     <option name="myConnectionType" value="SSH_CONFIG" />
     <option name="myConnectionId" value="f1766d9f644e@f1766d9f644e.7a64f43d.hbtn-cod.io:22 password" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="" />
@@ -222,6 +232,7 @@
       <workItem from="1664933473407" duration="1965000" />
       <workItem from="1664995614730" duration="356000" />
       <workItem from="1665027691077" duration="3195000" />
+      <workItem from="1665107733184" duration="401000" />
     </task>
     <task id="LOCAL-00060" summary="updated files">
       <created>1663289226128</created>
