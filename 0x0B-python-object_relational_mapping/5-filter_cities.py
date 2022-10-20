@@ -30,4 +30,3 @@ if __name__ == "__main__":
     print()
     cur.close()
     db.close()
-
