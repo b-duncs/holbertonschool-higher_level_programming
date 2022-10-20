@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/0x0B-python-object_relational_mapping/9-model_state_filter_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-object_relational_mapping/11-model_state_insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-object_relational_mapping/12-model_state_update_id_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-object_relational_mapping/13-model_state_delete_a.py " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x0B-python-object_relational_mapping/model_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,28 +233,7 @@
       <workItem from="1665027691077" duration="3195000" />
       <workItem from="1665107733184" duration="3630000" />
       <workItem from="1665156072410" duration="2329000" />
-      <workItem from="1666233003393" duration="3730000" />
-    </task>
-    <task id="LOCAL-00078" summary="updated files">
-      <created>1663298918843</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1663298918843</updated>
-    </task>
-    <task id="LOCAL-00079" summary="updated files">
-      <created>1663298982130</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1663298982130</updated>
-    </task>
-    <task id="LOCAL-00080" summary="updated files">
-      <created>1663299226176</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1663299226176</updated>
+      <workItem from="1666233003393" duration="5332000" />
     </task>
     <task id="LOCAL-00081" summary="updated files">
       <created>1663299533210</created>
@@ -574,7 +557,28 @@
       <option name="project" value="LOCAL" />
       <updated>1666238020035</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="updated files">
+      <created>1666238479968</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1666238479968</updated>
+    </task>
+    <task id="LOCAL-00128" summary="updated files">
+      <created>1666238501425</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1666238501425</updated>
+    </task>
+    <task id="LOCAL-00129" summary="updated files">
+      <created>1666238553551</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1666238553551</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
