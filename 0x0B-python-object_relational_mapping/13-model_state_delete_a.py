@@ -17,9 +17,8 @@ if __name__ == "__main__":
     )
     Session = sessionmaker(bind=engine)
     session = Session()
-    for states in sesh.query(State).order_by(State.id):
+    for states in session.query(State).order_by(State.id):
         if 'a' in states.name:
-            sesh.delete(states)
-
-    sesh.commit()
-    sesh.close()
+            session.delete(states)
+    session.commit()
+    session.close()
