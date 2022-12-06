@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="updated files">
-      <change beforePath="$PROJECT_DIR$/0x00-javascript-warm_up/7-multi_c.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x00-javascript-warm_up/7-multi_c.js" afterDir="false" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="added files">
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/0-rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/1-rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/10-converter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/2-rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/3-rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/4-rectangle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/5-square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/6-square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/7-occurrences.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/8-esrever.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/9-logme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +71,7 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "sshConsole",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -242,14 +254,7 @@
       <workItem from="1667350709408" duration="4403000" />
       <workItem from="1669934428678" duration="3284000" />
       <workItem from="1670281481808" duration="2333000" />
-      <workItem from="1670286099741" duration="1955000" />
-    </task>
-    <task id="LOCAL-00098" summary="updated files">
-      <created>1665028875672</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1665028875672</updated>
+      <workItem from="1670286099741" duration="3564000" />
     </task>
     <task id="LOCAL-00099" summary="updated files">
       <created>1665029057471</created>
@@ -587,7 +592,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670287958065</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="updated files">
+      <created>1670288082328</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1670288082328</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -611,9 +623,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added files" />
     <MESSAGE value="updated files" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated files" />
+    <MESSAGE value="added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
