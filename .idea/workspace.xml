@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/3-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/4-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/5-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/6-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/7-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/8-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/9-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/3-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/4-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/5-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/6-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/7-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/8-main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/9-main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/0-readme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03-javascript-web_jquery/0-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/0-script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03-javascript-web_jquery/1-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/1-script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03-javascript-web_jquery/2-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/2-script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x03-javascript-web_jquery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,14 +246,7 @@
       <workItem from="1670281481808" duration="2333000" />
       <workItem from="1670286099741" duration="3700000" />
       <workItem from="1670296371654" duration="16000" />
-      <workItem from="1670474665454" duration="2979000" />
-    </task>
-    <task id="LOCAL-00101" summary="updated files">
-      <created>1665029321273</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1665029321273</updated>
+      <workItem from="1670474665454" duration="4304000" />
     </task>
     <task id="LOCAL-00102" summary="updated files">
       <created>1665029458462</created>
@@ -609,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670475525453</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="added files">
+      <created>1670477794704</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1670477794704</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
