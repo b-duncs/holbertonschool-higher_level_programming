@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/0-rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/1-rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/10-converter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/2-rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/3-rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/4-rectangle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/5-square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/6-square.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/7-occurrences.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/8-esrever.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/9-logme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x01-javascript_objects_scopes_closures/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/0-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/1-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/0-main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x03-javascript-web_jquery/test_files/1-main.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,32 +47,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "19.2.0",
-    "javascript.nodejs.core.library.typings.version": "18.11.11",
-    "last_opened_file_path": "/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;19.2.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.11.11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bduncs/Documents/GitHub/holbertonschool-higher_level_programming&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="holbertonschool-higher_level_programming" is-module-sdk="true">
@@ -254,14 +247,9 @@
       <workItem from="1667350709408" duration="4403000" />
       <workItem from="1669934428678" duration="3284000" />
       <workItem from="1670281481808" duration="2333000" />
-      <workItem from="1670286099741" duration="3564000" />
-    </task>
-    <task id="LOCAL-00099" summary="updated files">
-      <created>1665029057471</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1665029057471</updated>
+      <workItem from="1670286099741" duration="3700000" />
+      <workItem from="1670296371654" duration="16000" />
+      <workItem from="1670474665454" duration="637000" />
     </task>
     <task id="LOCAL-00100" summary="updated files">
       <created>1665029199810</created>
@@ -599,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670288082328</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="added files">
+      <created>1670296135280</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1670296135280</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
