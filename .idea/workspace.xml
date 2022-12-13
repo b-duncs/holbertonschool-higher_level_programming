@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="added files">
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/1-writeme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/2-statuscode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/3-starwars_title.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/4-starwars_count.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/5-request_store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/6-completed_tasks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0x02-javascript-web_scraping/0-readme.js" beforeDir="false" afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/0-readme.js" afterDir="false" />
+    <list default="true" id="631121e9-4e6a-47dd-b75e-019cd5b48305" name="Changes" comment="removed files">
+      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/0-readme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0x02-javascript-web_scraping/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/holbertonschool-higher_level_programming.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,13 +249,7 @@
       <workItem from="1670296371654" duration="16000" />
       <workItem from="1670474665454" duration="4407000" />
       <workItem from="1670971141512" duration="308000" />
-    </task>
-    <task id="LOCAL-00103" summary="updated files">
-      <created>1665029489372</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1665029489372</updated>
+      <workItem from="1670971755233" duration="308000" />
     </task>
     <task id="LOCAL-00104" summary="updated files">
       <created>1665029729949</created>
@@ -599,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670478993538</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="removed files">
+      <created>1670971792147</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1670971792148</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,7 +620,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated files" />
     <MESSAGE value="added files" />
-    <option name="LAST_COMMIT_MESSAGE" value="added files" />
+    <MESSAGE value="removed files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

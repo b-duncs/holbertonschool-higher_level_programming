@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/0x07-python-test_driven_development/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/0x07-python-test_driven_development/tests" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/0x0A-python-inheritance/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/node_modules" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
